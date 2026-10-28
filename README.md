@@ -30,8 +30,8 @@ git clone https://github.com/bjmdevelopers/QR-Code-Generator.git
 cd QR-Code-Generator
 ```
 
-· Open directly: double-click index.html
-· Or run a local server (needed for the Copy feature):
+- Open directly: double-click QR_Code_Gen.html
+- Or run a local server (needed for the Copy feature):
   ```bash
   python -m http.server 8000
   ```
